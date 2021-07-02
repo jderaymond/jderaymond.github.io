@@ -1,0 +1,27 @@
+
+#Header-Name {
+    font-family: 'Playfair Display', serif;
+    align-content: center;
+    justify-content: start;
+    color: rgb(135 135 255);
+}
+
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: rgb(135 135 255);
+}
+
+#About-Me {
+}
+
+#Headshot {
+    border-radius: 50%;
+    width: 30%;
+    height: auto;
+
+    
+}
+
+#Navbar{
+    background-color: black;
+}
